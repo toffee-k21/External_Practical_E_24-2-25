@@ -19,3 +19,22 @@ footer {
   color: midnightblue;
 }
 
+.card-container {
+  display: flex;
+}
+
+.card {
+  display: flex;
+}
+
+.tile-image{
+  width: 200px;
+}
+
+.card-block {
+  padding: 5px;
+}
+
+.creative {
+  color: blue;
+}
